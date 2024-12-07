@@ -18,7 +18,10 @@ This repository contains a machine learning project focused on predicting match 
 ---
 
 ## Repository Contents  
+Note: Links provided are to the Google Drive / Colab versions so they can be continuously updated as necessary. Files uploaded to this repository were last updated: `12-7-2024`.
 
+- **Data**:
+  - [NWSL 2023 Season Data](https://drive.google.com/file/d/13yokJ4rb_op7ZjeLuJ4krzwJlLx2bz_E/view?usp=sharing)
 - **Notebooks**:  
   - [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1Opg-MOMV9pBahe4VVe1ZDQ0svk3sh6ZC?usp=sharing)
   - [Model Development](https://colab.research.google.com/drive/14qxcJ8lKcxpN1f2QMaC6UpyB_gbq4GEo?usp=sharing) 
