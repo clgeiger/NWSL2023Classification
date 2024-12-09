@@ -28,7 +28,7 @@ Note: Links provided are to the Google Drive / Colab versions so they can be con
   - [Challenges Overview](https://colab.research.google.com/drive/1vnw_-4WoWkEvSS8rCZi0o8lJD2oFVG-o?usp=sharing) 
 
 - **Final Report**:  
-  - [PDF Summary Report](https://drive.google.com/file/d/1zh3HkkSgcmn8MjBxEXtfEy72GRC5-u7k/view?usp=sharing)  
+  - [PDF Summary Report](https://drive.google.com/file/d/1nyd_QG2gdplk_yAl40fPjsTSPY7MNxS1/view?usp=sharing) 
 
 ---
 
